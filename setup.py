@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='mkdocs-git-show-history-log-plugin',
-    version='0.1',
+    version='0.0.1',
     description='MkDocs plugin for showing a history log for a specified markdown file',
     keywords='mkdocs git meta yaml frontmatter',
     url='https://github.com/pawelsikora/mkdocs-git-show-history-log-plugin/',
