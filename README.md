@@ -20,7 +20,7 @@ plugins:
   - git-show-history-log
 ```
 
-More information about plugins in the [MkDocs documentation][mkdocs-plugins].
+More information about plugins in the [MkDocs documentation](mkdocs-plugins).
 
 ## Usage
 
